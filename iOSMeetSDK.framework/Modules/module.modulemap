@@ -1,0 +1,11 @@
+framework module iOSMeetSDK {
+  umbrella header "iOSMeetSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module iOSMeetSDK.Swift {
+    header "iOSMeetSDK-Swift.h"
+    requires objc
+}
