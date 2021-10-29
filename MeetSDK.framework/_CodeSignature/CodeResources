@@ -376,7 +376,7 @@
 		</data>
 		<key>Frameworks/JitsiMeetSDK.framework/JitsiMeetSDK</key>
 		<data>
-		hVxUz/5J2AxcA0fhFv/LxdI8LJo=
+		tD/WMW+HU3ucnTsMyMceiKW9iDg=
 		</data>
 		<key>Frameworks/JitsiMeetSDK.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -796,7 +796,7 @@
 		</data>
 		<key>Frameworks/WebRTC.framework/WebRTC</key>
 		<data>
-		v1J53cpVg3Wga7GTcdQJXVT3x2E=
+		CLNh7vYlp9CYNTAw1bxTk5N8J/U=
 		</data>
 		<key>Frameworks/WebRTC.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -804,7 +804,7 @@
 		</data>
 		<key>Headers/MeetSDK-Swift.h</key>
 		<data>
-		F8B/vewvzj9QcZ4x14TlkmkRMU0=
+		/ycbQDsoVBqH/aRIsAhAySIFw5o=
 		</data>
 		<key>Headers/MeetSDK.h</key>
 		<data>
@@ -812,31 +812,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		LLhvzjlCAtogfdgmUZioDqP4ja0=
+		G+wtNVF/tIk+/QaiCw2HtcfQii0=
 		</data>
 		<key>Modules/MeetSDK.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		7eD3n3n4H2ArT5h1JyXbJN2IFdw=
+		95wrDVXN+3RVcJlbAvtvvOPTPbY=
 		</data>
 		<key>Modules/MeetSDK.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		7eD3n3n4H2ArT5h1JyXbJN2IFdw=
+		95wrDVXN+3RVcJlbAvtvvOPTPbY=
 		</data>
 		<key>Modules/MeetSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		tvsyFJJndW/EobvUq5o2nW5pL9E=
+		gJl9a1voDTPfAiTOkLIwzNwPGCw=
 		</data>
 		<key>Modules/MeetSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		SGpvQOQ6f8tfTkv/1BflKy7zpAI=
+		Lq0yO/mvHaXuZEgWy6WTl13IoFs=
 		</data>
 		<key>Modules/MeetSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		tvsyFJJndW/EobvUq5o2nW5pL9E=
+		gJl9a1voDTPfAiTOkLIwzNwPGCw=
 		</data>
 		<key>Modules/MeetSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		SGpvQOQ6f8tfTkv/1BflKy7zpAI=
+		Lq0yO/mvHaXuZEgWy6WTl13IoFs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -1240,7 +1240,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ktAGGQ+QNgnuwid0B0DGbuJvncEDc7TCev5MlH9T0Y4=
+			Yq48e4wjGlgd0bnrlCjO8ySUvHURThu8HP6i3xUspQ8=
 			</data>
 		</dict>
 		<key>Frameworks/JitsiMeetSDK.framework/_CodeSignature/CodeResources</key>
@@ -1975,7 +1975,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			W6mNkFpE+1YeI0ynCFMStvCoWbD66CxqK4Q2CcACvm0=
+			7HNAl/U+RpDArrzmiEseblu9VQFMYiIw+tj/eGVi5qQ=
 			</data>
 		</dict>
 		<key>Frameworks/WebRTC.framework/_CodeSignature/CodeResources</key>
@@ -1989,7 +1989,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1q2FlaqD8W9EY4x/RbGh8+hZ2FTp6JxguUspdTTOw5g=
+			Mqq4+tyzzYkor2ZOIhFUJu4bZTDlZfDC2C2XhUOl0X8=
 			</data>
 		</dict>
 		<key>Headers/MeetSDK.h</key>
@@ -2003,42 +2003,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			w45rPw6tK4A6NYm8Xi8Ux/sxOH+E4SE2NRcx7jhsTAg=
+			DLhhMsEYd7S0fTvzrF3XoV62jcdzY6Frq8OuTg75QLQ=
 			</data>
 		</dict>
 		<key>Modules/MeetSDK.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			w45rPw6tK4A6NYm8Xi8Ux/sxOH+E4SE2NRcx7jhsTAg=
+			DLhhMsEYd7S0fTvzrF3XoV62jcdzY6Frq8OuTg75QLQ=
 			</data>
 		</dict>
 		<key>Modules/MeetSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GwYSBmQSkFft55gECtAPJ/6kqv9lhtSHufFoeC4f+gE=
+			VJnzYN5oAyCQFspZzEj/tptQiYpobnrkq4LozU4KQ5Y=
 			</data>
 		</dict>
 		<key>Modules/MeetSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gnnR2F/h0B2x9CdM98XTMOHHyQki1+L/BgyUrT6uzG8=
+			+kV2UOqZ0sleeyB+q9muKzMDXh+JC77DNxuoQ/T2D8A=
 			</data>
 		</dict>
 		<key>Modules/MeetSDK.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GwYSBmQSkFft55gECtAPJ/6kqv9lhtSHufFoeC4f+gE=
+			VJnzYN5oAyCQFspZzEj/tptQiYpobnrkq4LozU4KQ5Y=
 			</data>
 		</dict>
 		<key>Modules/MeetSDK.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gnnR2F/h0B2x9CdM98XTMOHHyQki1+L/BgyUrT6uzG8=
+			+kV2UOqZ0sleeyB+q9muKzMDXh+JC77DNxuoQ/T2D8A=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
